@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://cedard234.github.io/portfolio.cedard.me/sitemap.xml
+Sitemap: https://cedard234.github.io/cedard234.github.io/sitemap.xml
