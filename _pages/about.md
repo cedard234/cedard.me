@@ -24,7 +24,9 @@ My name is <u>Wang</u> Di(/wɑŋ˧˥ ti˧˥/)(<u>王</u>頔).
 
 I am a prospective Ph.D. student in the EECS Department at UC Berkeley advised by [Prof Jaijeet Roychowdhury](https://jaijeet.github.io/jrpages/index.html). My research interests are in hardware accelerator design, both digital and analog approaches.
 
-I have completed my bachelor degree at Nanyang Technological University in the Electrical & Electronic Engineering department. My specialization was Integrated Circuit Design. I did some IC-design related stuffs there too, including CNN accelerator design(my FYP project), DAC and LNA designs(my course projects).
+I have earned my bachelor degree at Nanyang Technological University, Singapore in the Electrical & Electronic Engineering department. My specialization was Integrated Circuit Design. I did some IC-design related stuffs at NTU too, including designs regarding CNN accelerator(my FYP project), DAC and LNA(my course projects).
+
+I worked in MediaTek, Singapore in 2022, focusing on logic synthesis of APU/GPU. During summer break in 2023, I worked in IME, A*STAR in the field of cryogenic temperature sensor design for quantum computers. 
 
 Aside from IC design research, I was the system administrator and hardware manager at [NTUHPC](https://ntuhpc.org/) from 2022 to 2023. I joined [ISC22](https://www.hpcadvisorycouncil.com/events/student-cluster-competition/)(online) and [SC22](https://sc22.supercomputing.org/program/studentssc/student-cluster-competition/)(onsite). Configuring HPC servers is so much fun.
 
